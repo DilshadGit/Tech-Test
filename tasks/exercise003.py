@@ -96,7 +96,3 @@ def row_weights(array):
     return f'Your entered {option} this is your list {array} == {final_team}'
 
 print(row_weights(array=input('Pleater Enter: ')))
-   # print(first_tot_weight)
-
-    # first_row = list()
-    # first_row.append(int(input('Enter your weight: ')))
